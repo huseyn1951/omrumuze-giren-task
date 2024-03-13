@@ -1,0 +1,7 @@
+C:\Users\tural\OneDrive\Рабочий стол\projects\omrumuze giren task\omrumuze giren task\bin\Debug\omrumuze giren task.exe.config
+C:\Users\tural\OneDrive\Рабочий стол\projects\omrumuze giren task\omrumuze giren task\bin\Debug\omrumuze giren task.exe
+C:\Users\tural\OneDrive\Рабочий стол\projects\omrumuze giren task\omrumuze giren task\bin\Debug\omrumuze giren task.pdb
+C:\Users\tural\OneDrive\Рабочий стол\projects\omrumuze giren task\omrumuze giren task\obj\Debug\omrumuze giren task.csproj.AssemblyReference.cache
+C:\Users\tural\OneDrive\Рабочий стол\projects\omrumuze giren task\omrumuze giren task\obj\Debug\omrumuze giren task.csproj.CoreCompileInputs.cache
+C:\Users\tural\OneDrive\Рабочий стол\projects\omrumuze giren task\omrumuze giren task\obj\Debug\omrumuze giren task.exe
+C:\Users\tural\OneDrive\Рабочий стол\projects\omrumuze giren task\omrumuze giren task\obj\Debug\omrumuze giren task.pdb
